@@ -8,8 +8,8 @@ from email.utils import parseaddr
 import os
 
 # Email account credentials
-username = 'alpavirama@gmail.com'
-password = 'nzvg nytt zvje bswa'
+username = 'EMAIL_HERE'
+password = 'PASSWORD_HERE'
 
 # IMAP server details
 imap_server = 'imap.gmail.com'
